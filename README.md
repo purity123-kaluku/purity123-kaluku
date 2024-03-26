@@ -38,11 +38,9 @@ purity-kaluku/)
 
 ---
 ## Domains of Interests & Expertise
-:comet: Finance <br>
 :comet: Statistics <br>
 :comet: sql/plsql<br>
 :comet: Software Developer <br>
-:comet: Business Intelligence <br>
 :comet: Data Analysis <br>
 :comet: Database Administration <br>
 :comet: Oracle <br>
