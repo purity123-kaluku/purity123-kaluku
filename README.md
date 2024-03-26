@@ -4,7 +4,7 @@
   <img src="https://github.com/Willy-Nyawira/Willy-Nyawira/blob/master/Images/Icons/avatar.jfif" width="200" height="200">
 </p>
 
-### Financial analyst | Software Developer|Oracle specialist
+### Data analyst | Software Developer|Oracle specialist
 
 * I design, create, test, and maintain software applications or systems.*
 
