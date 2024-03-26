@@ -23,7 +23,7 @@ Continuous Learning and Growth: Committed to lifelong learning, I actively pursu
 
 Collaboration and Impact: Enthusiastic about collaborative problem-solving, I thrive in team environments where I can contribute my expertise to drive impactful solutions. My GitHub portfolio showcases my technical skills and project contributions, demonstrating my commitment to excellence and collaborative innovation.
 
-Let's connect and explore opportunities to leverage my expertise in statistics, mathematics, data analytics, and technology to drive innovation and create value.Feel free out at 📫 gatierehema@gmail.com.
+Let's connect and explore opportunities to leverage my expertise in statistics, mathematics, data analytics, and technology to drive innovation and create value.Feel free out at 📫 puritykalumu@gmail.com.
 
 Let's embark on a journey of mutual growth and professional advancement.
 
